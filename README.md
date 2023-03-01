@@ -17,12 +17,15 @@ Run DEFEAT to generate adversarial examples: `main.py`.
 We attack four normally trained models to generate adversarial examples, and test the transferability against defense models.
 
 <b>Layer Transferability</b>
+
 <img src="/figure/exp1.png" width = "700" height = "350" align=center/>
 
 <b>Standalone Experiment</b>
+
 <img src="/figure/exp3.png" width = "600" height = "250" align=center/>
 
 <b>Ensemble Experiment</b>
+
 <img src="/figure/exp4.png" width = "700" height = "250" align=center/>
 
 
